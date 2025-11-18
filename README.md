@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=md-elius&style=for-the-badge)
+
 <img align=”right” alt=”Coding” width=”1000” src="./md-elius.png"/>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
