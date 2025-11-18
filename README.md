@@ -3,9 +3,7 @@
 
 ##  About Me
 
-Hi! I'm **MD. ELIUS**, an aspiring **Frontend & MERN Stack Developer** passionate about building clean, modern, and user-friendly web applications.
-
-I love working with **JavaScript, React, Node.js, Express, and MongoDB**, and I enjoy turning ideas into functional real-world projects.  
+Hi! I'm **MD. ELIUS**, an aspiring **Frontend & MERN Stack Developer** passionate about building clean, modern, and user-friendly web applications. I love working with **JavaScript, React, Node.js, Express, and MongoDB**, and I enjoy turning ideas into functional real-world projects.  
 I'm continuously learning, improving, and exploring new tools to strengthen my development journey.
 
 🚀 **Currently learning:** React.js, Express.js, MongoDB, Full-Stack Fundamentals  
