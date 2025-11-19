@@ -1,11 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=md-elius&style=for-the-badge)
 
-<img align=”right” alt=”Coding” width=”1000” src="./md-elius.png"/>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+MD.+ELIUS....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+<img align=”right” alt=”Coding” width=”1000” src="./banner .png"/>
 
 <div align="center">
   
