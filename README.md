@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<h3>  About Me </h3>
+<h2>  About Me </h2>
 
 Hi! I'm **[@md-elius](https://github.com/md-elius)**, an aspiring **Frontend & MERN Stack Developer** passionate about building clean, modern, and user-friendly web applications. I'm continuously learning, improving, and exploring new tools to strengthen my development journey.
 
@@ -17,7 +17,7 @@ Hi! I'm **[@md-elius](https://github.com/md-elius)**, an aspiring **Frontend & M
 
 <div align="center">
 
-<h3>🔥 Current Activities</h3>
+<h2>🔥 Current Activities</h2>
 
 <table>
 <tr>
@@ -41,6 +41,7 @@ Hi! I'm **[@md-elius](https://github.com/md-elius)**, an aspiring **Frontend & M
 <br/>
 
 <div align="center">
+
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -69,6 +70,24 @@ Hi! I'm **[@md-elius](https://github.com/md-elius)**, an aspiring **Frontend & M
 </div>
 
 <br/>
+
+<div align="center">
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-elius&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title=Top%20Languages&card_width=600" alt="Top Languages">
+
+<br><br>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=md-elius&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&title=GitHub%20Stats&card_width=600" alt="GitHub Stats">
+
+<br><br>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-elius&theme=transparent&hide_border=false&card_width=600" alt="GitHub Streak">
+
+</div>
+
 
 
 
