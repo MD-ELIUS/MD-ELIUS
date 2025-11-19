@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-<img align=”right” alt=”Coding” width=”1000” src="./banner .png"/>
+<img align=”right” alt=”Coding” width=”1000” src="./banner -profile.png"/>
 
 <div align="center">
   
