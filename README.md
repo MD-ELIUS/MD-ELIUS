@@ -7,18 +7,40 @@
   </a>
 </h1>
 
-##  About Me
+<div align="center">
+  
+<h3>  About Me </h3>
 
 Hi! I'm **[@md-elius](https://github.com/md-elius)**, an aspiring **Frontend & MERN Stack Developer** passionate about building clean, modern, and user-friendly web applications. I'm continuously learning, improving, and exploring new tools to strengthen my development journey.
 
-## 🔥 Current Activities
+</div>
 
-- ⚡ Exploring modern frontend frameworks like **Next.js**
-- 🛠️ Working on a **Personal Portfolio Website** to showcase my projects
-- 🧪 Experimenting with **API integration** in JavaScript and React
-- 🏡 Developing **HomeNest – A Real Estate Website** (property listing, filtering & UI design)
+<div align="center">
+
+<h3>🔥 Current Activities</h3>
+
+<table>
+<tr>
+<td>
+
+<ul>
+  <li>⚡ Exploring modern frontend frameworks like <b>Next.js</b></li>
+  <li>🛠️ Working on a <b>Personal Portfolio Website</b> to showcase my projects</li>
+  <li>🧪 Experimenting with <b>API integration</b> in JavaScript and React</li>
+  <li>🏡 Developing <b>HomeNest – A Real Estate Website</b> (property listing, filtering & UI design)</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 <br/>
+
+<div align="center">
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -27,18 +49,23 @@ Hi! I'm **[@md-elius](https://github.com/md-elius)**, an aspiring **Frontend & M
 | **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)                                             |
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)                                                        |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ! |
+</div>
 
 
 <!--- socials --->
-<h3> <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> FOLLOW ME ON SOCIALS: </h3>
+<div align="center">
+ <h3><img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> FOLLOW ME ON SOCIALS: </h3>
 
-<div>
-  <p align="left">
+<div >
+  <p align="center">
     <a href="https://linkedin.com/in/mdelius" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
     <a href="https://x.com/elius320" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="touhidcodes" height="30" width="40" /></a>
     <a href="https://discord.com/users/1336743130485227591" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/31903365" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104988" height="30" width="40" /></a>
+  
   </p>
+</div>
+
 </div>
 
 <br/>
